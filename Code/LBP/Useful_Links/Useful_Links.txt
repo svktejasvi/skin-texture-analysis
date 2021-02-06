@@ -2,3 +2,5 @@ https://www.pyimagesearch.com/2015/12/07/local-binary-patterns-with-python-openc
 https://cvexplained.wordpress.com/2020/07/22/10-7-local-binary-patterns/
 https://scikit-image.org/docs/0.13.x/auto_examples/features_detection/plot_local_binary_pattern.html
 https://machinelearningmastery.com/divergence-between-probability-distributions/
+https://stackoverflow.com/questions/32105338/uniform-lbp-with-scikit-image-local-binary-pattern-function
+https://en.wikipedia.org/wiki/Local_binary_patterns
